@@ -97,11 +97,11 @@ button:hover {
 
 <script>
 function checkCode() {
-    var correctCode = "1234"; // ← здесь меняешь код
+    var correctCode = "3491"; // 
     var entered = document.getElementById("code").value;
 
     if (entered === correctCode) {
-        window.location.href = "file.pdf"; // ← сюда вставь свой PDF
+        window.location.href = C:\Users\ШарофутдиновАкмал\Desktop; // 
     } else {
         document.getElementById("error").innerText = "Неверный код";
     }
